@@ -1,7 +1,7 @@
 # Bilal_Portfolio
 My Projects
 
-# [Project 1: Predicting the stock prices for the 3 big Tech companies using Time Series Forecasting](https://github.com/bxmaqsood/stock-prize-prediction-/blob/main/final_project_asds_5302%2C_group_15.py)
+# [Project 1: Predicting the stock prices for the 3 big Tech companies using Time Series Forecasting](https://github.com/bxmaqsood/stock-prize-prediction-/blob/main/Final_Project_ASDS_5302%2C_Group_15.ipynb)
 *	Visualized the data, did Exploratory data analysis(EDA) and achieved stationarity by differencing after finding the time series non-stationary using the AD Fuller test.
 * Built a persistence model to get a benchmark for comparing the results, plotted autocorrelation plot and partial autocorrelation plot to decide on the optimum number of lags for the autoregression and moving average model before fitting the models.
 * Integrated the 3-time series back to get the actual predictions, plotted it to compare with the actual results, and looked for the insights from the predictions to analyze the differences in investment decisions that we might have made based on predicted data vs the actual data.
